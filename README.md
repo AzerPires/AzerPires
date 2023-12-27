@@ -12,10 +12,6 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/AzerPires/">
-    <img src="https://github-readme-stats.vercel.app/api?username=AzerPires&show_icons=true&theme=radical" alt="AzerPires GitHub stats" />
-  </a>
-  
-  <a href="https://github.com/AzerPires/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzerPires&theme=radical" alt="Top Langs" />
   </a>
  </div>
