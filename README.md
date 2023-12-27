@@ -11,11 +11,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/AzerPires/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=AzerPires&show_icons=true&theme=radical" alt="AzerPires GitHub stats" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/AzerPires/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzerPires&theme=radical" alt="Top Langs" />
   </a>
  </div>
