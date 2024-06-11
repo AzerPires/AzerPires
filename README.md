@@ -1,7 +1,7 @@
 <h1 align="center">BIENVENUE !</h1>
 
 ## À propos de moi
-<p align="center">Je suis actuellement en train de terminer mon cours de développement au Institut Grasset à Montréal, et récemment, j'ai conclu un stage en développement web. Je me distingue par mes connaissances techniques en Front-end : HTML, PHP, JavaScript, Vite, React, CSS et dans d'autres domaines connexes.</p>
+<p align="center">Je suis actuellement en train de terminer mon cours de développement à l'Institut Grasset à Montréal. Récemment, j'ai conclu un stage en développement web. Je me distingue par mes connaissances techniques en Front-end, notamment en HTML, PHP, JavaScript, Vite, React, CSS, ainsi que dans d'autres domaines connexes.</p>
 
 ## Skills
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
